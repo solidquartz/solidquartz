@@ -11,9 +11,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=solidquartz&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=solidquartz&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=solidquartz&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=solidquartz&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=solidquartz&icon=7&color=9)](https://visitcount.itsvg.in)
