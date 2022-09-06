@@ -1,5 +1,5 @@
 # 🍂 About Me:
-💎 I'm a Full Stack Web Developer based in Toronto<br>📚 I have a background in English language education, translation, and linguistics<br>🌱 I’m currently working on UX/UI and learning C#<br>🎮 I love crochet, bubble tea, and video game (especially Final Fantasy)<br>💬 I speak English, French, and Japanese, and I'm studying 4 more!<br>🏳️‍🌈 My pronouns are she/they (il/ils en français)
+💎 I'm a Full Stack Web Developer based in Toronto<br>📚 I have a background in English language education, translation, and linguistics<br>🌱 I’m currently working on UX/UI and learning C#<br>🎮 I love crochet, bubble tea, and video games (especially Final Fantasy)<br>💬 I speak English, French, and Japanese, and I'm studying 4 more!<br>🏳️‍🌈 My pronouns are she/they (il/ils en français)
 
 
 ## 🌐 Socials:
