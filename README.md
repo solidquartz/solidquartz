@@ -1,5 +1,5 @@
 # 🍂 About Me
-💎 I'm a Full Stack Web Developer based in Toronto<br>🎨 I specialize in Front End and love design<br>📚 I have a background in English language education, translation, and linguistics<br>🌱 I'm not currently taking commissions<br>🎮 I love crochet, bubble tea, and video games (especially Final Fantasy)<br>💬 I speak English, French, and Japanese, and I'm studying 4 more!<br>🏳️‍🌈 My pronouns are they/she
+💎 I'm a Full Stack Web Developer based in Toronto<br>🎨 I specialize in Front End and love design<br>📚 I have a background in English language education, translation, and linguistics<br>🌱 I'm looking for work!<br>🎮 I love crochet, bubble tea, and video games (especially Final Fantasy)<br>💬 I speak English, French, and Japanese, and I'm studying 3 more!<br>
 
 ✨ [Check out my Portfolio Site!](http://akymacdonald.me) ✨
 
